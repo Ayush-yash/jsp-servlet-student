@@ -10,7 +10,7 @@ A simple web application demonstrating the integration of **Java Servlets** and 
 
 ## 📁 Project Structure
 ```text
-servlet/
+jsp-servlet-student/
 ├── pom.xml
 ├── .gitignore
 ├── README.md
@@ -31,7 +31,7 @@ servlet/
 
 1. **Navigate to the project folder:**
    ```bash
-   cd servlet
+   cd jsp-servlet-student
    ```
 
 2. **Build the project using Maven:**
